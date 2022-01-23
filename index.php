@@ -1,4 +1,7 @@
 <?php 
+/* author : @cybercoder.faruk 
+- Hiç bilenle bilmeyen bir olur mu ? 
+- Başkalarının apilerini kullanın benim kendi apim var xD */
 echo "<center><h2>cybercoder.faruk Json Api Çekme</center></h2> ";
 echo "<center><h4>Başkalarının Rest Apilerini kullanın sizin kendi apiniz yok :D </center></h4> ";
 $site="http://demo.farukdeveloper.online/database.json";
